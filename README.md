@@ -1,22 +1,15 @@
 <h1 align="center">Hi 👋, I'm David Tony-Awusaku</h1>
-<h3 align="center">A passionate full stack developer from Nigeria</h3>
+<h3 align="center">A passionate Engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dtawusaku&label=Profile%20views&color=0e75b6&style=flat" alt="dtawusaku" /> </p>
 
 - 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **AWS, Laravel, Vue, ReactJs**
+- 🌱 I’m currently learning **ML and NLP**
 
-- 👯 I’m looking to collaborate on **Language Learning**
+- 👯 I’m looking to collaborate on **Translation models,Data Analytic Projects**
 
-- 👨‍💻 All of my projects are available at [...](...)
-
-- 💬 Ask me about **laravel, AWS**
-
-- 📫 How to reach me **davidtonyawusaku@gmail.com**
-
-- ⚡ Fun fact **I like typing**
-
+- 📫 How to reach me **workdavidtonyawusaku@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dtawusaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dtawusaku" height="30" width="40" /></a>
