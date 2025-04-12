@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Chinedu Tony-Awusaku</h1>
 <h3 align="center">A Passionate Engineer from Nigeria 💚</h3>
-<h4 align="center">PS😅: I'M LOOKING FOR A JOB!!!!</h4>
+<!-- <h4 align="center">PS😅: I'M LOOKING FOR A JOB!!!!</h4> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dtawusaku&label=Profile%20views&color=0e75b6&style=flat" alt="dtawusaku" /> </p>
 
