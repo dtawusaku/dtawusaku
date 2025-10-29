@@ -22,10 +22,10 @@
 #### Frameworks
 
 - Web Development
-  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,laravel,mysql,postman)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,tailwind,laravel,mysql,postman)](https://skillicons.dev)
 - Static Pages
-  [![My Skills](https://skillicons.dev/icons?i=astro,github)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=astro,github)](https://skillicons.dev)
 - Developing Models
-  [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 - Automation
-  [![My Skills](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)
